@@ -1,6 +1,15 @@
-# Task
+## Task
 
 In this project you will build a searchable list of country cards with Covid-19 statistics and on the way you will learn how to apply Material-UI components, how to make requests with a help of React-Query library, using React-Router to navigate between the screens, and all this using the most popular library for building interactive user interfaces - React.
+
+## Technology stack
+
+- React
+- React Query
+- React Router
+- Material UI
+- TypeScript
+- Axios
 
 ## Available Scripts
 
